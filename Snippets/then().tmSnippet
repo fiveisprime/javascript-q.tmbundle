@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>.then($1)$2</string>
 	<key>name</key>
-	<string>.then()</string>
+	<string>then()</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>t</string>
 	<key>uuid</key>
-	<string>5A8E25FF-0A70-4191-B5DD-50C9BB7606C7</string>
+	<string>3F1A7F7B-76E4-49BF-B23A-4ACAD8E1FEA7</string>
 </dict>
 </plist>
