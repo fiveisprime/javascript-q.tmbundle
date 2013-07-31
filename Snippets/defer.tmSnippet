@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>var deferred = Q.defer();</string>
+	<string>var deferred = Q.defer();$1</string>
 	<key>name</key>
 	<string>defer()</string>
 	<key>scope</key>

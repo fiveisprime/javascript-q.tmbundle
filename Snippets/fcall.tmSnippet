@@ -3,14 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>deferred.reject($1);$2</string>
+	<string>Q.fcall(${1:f})
+	.then($2)
+	$5
+	.catch(${3:function(err) {
+		$4
+	\}})
+	.done();</string>
 	<key>name</key>
-	<string>reject()</string>
+	<string>fcall</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>qe</string>
+	<string>qc</string>
 	<key>uuid</key>
-	<string>514B6613-53D1-49A0-AC5D-235716CDF857</string>
+	<string>0E21306B-EF53-4636-8730-9347E5162100</string>
 </dict>
 </plist>

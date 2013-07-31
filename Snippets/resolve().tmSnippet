@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>deferred.resolve($0);</string>
+	<string>deferred.resolve($1);$2</string>
 	<key>name</key>
 	<string>resolve()</string>
 	<key>scope</key>
