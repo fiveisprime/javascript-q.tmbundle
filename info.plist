@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zngg@zbqhyhf.vb</string>
+	<key>contactName</key>
+	<string>Matt Hernandez</string>
+	<key>description</key>
+	<string>Bundle for working with the Q node module.</string>
+	<key>name</key>
+	<string>JavaScript Q</string>
+	<key>uuid</key>
+	<string>774F5FA7-38FF-42DC-BD46-20BF5875E7F7</string>
+</dict>
+</plist>

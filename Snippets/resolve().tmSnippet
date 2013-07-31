@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>deferred.resolve($0);</string>
+	<key>name</key>
+	<string>resolve()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>qr</string>
+	<key>uuid</key>
+	<string>C4FD38AF-8C58-4408-8C99-2B864C6D2631</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Q.delay(${1:ms}).done($0);</string>
+	<key>name</key>
+	<string>delay</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>qdel</string>
+	<key>uuid</key>
+	<string>A3C2D1C4-01FA-454B-BFA8-699C213F3884</string>
+</dict>
+</plist>
