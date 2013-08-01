@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>Q.fcall(${1:f})
 	.then($2)
-	$5
-	.catch(${3:function(err) {
-		$4
+	$3
+	.catch(${4:function(err) {
+		$5
 	\}})
-	.done();</string>
+	.done();$6</string>
 	<key>name</key>
 	<string>fcall</string>
 	<key>scope</key>
