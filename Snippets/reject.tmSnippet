@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.catch($1)$2</string>
+	<string>deferred.reject($1);$2</string>
 	<key>name</key>
-	<string>catch()</string>
+	<string>reject()</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>c</string>
+	<string>qe</string>
 	<key>uuid</key>
-	<string>161DC180-A3DA-4DFB-80C6-995107BC897D</string>
+	<string>514B6613-53D1-49A0-AC5D-235716CDF857</string>
 </dict>
 </plist>

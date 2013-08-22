@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>deferred.reject($1);$2</string>
+	<string>.fail($1)</string>
 	<key>name</key>
-	<string>reject()</string>
+	<string>fail</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
