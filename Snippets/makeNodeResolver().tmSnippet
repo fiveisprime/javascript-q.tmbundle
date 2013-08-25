@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>deferred.makeNodeResolver()</string>
+	<key>name</key>
+	<string>makeNodeResolver()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>qnr</string>
+	<key>uuid</key>
+	<string>1DA1B6AC-DFFF-46C7-AFA8-6CF07B9A88EE</string>
+</dict>
+</plist>
