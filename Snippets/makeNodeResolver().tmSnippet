@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>deferred.makeNodeResolver()</string>
+	<string>var deferred = Q.defer();
+
+${1:function}(${2:params} deferred.makeNodeResolver());
+
+return deferred.promise;</string>
 	<key>name</key>
 	<string>makeNodeResolver()</string>
 	<key>scope</key>
