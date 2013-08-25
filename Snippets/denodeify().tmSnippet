@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Q.denodeify(${1:f});$2</string>
+	<string>Q.denodeify($1);$2</string>
 	<key>name</key>
 	<string>denodeify()</string>
 	<key>scope</key>
