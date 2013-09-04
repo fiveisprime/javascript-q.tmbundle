@@ -3,15 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Q.fcall(${1:f})
+	<string>Q.nfcall(${1:f})
 	.then($2)
-	$3
-	.catch(${4:function(err) {
-		$5
+	.fail(${3:function(err) {
+		$4
 	\}})
-	.done();$6</string>
+	.done();$5</string>
 	<key>name</key>
-	<string>fcall</string>
+	<string>nfcall</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
