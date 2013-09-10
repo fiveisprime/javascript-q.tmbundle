@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Matt Hernandez</string>
 	<key>description</key>
-	<string>Bundle for working with the Q node module.</string>
+	<string>Bundle for working with the Q module in Node.js.</string>
 	<key>name</key>
 	<string>JavaScript Q</string>
 	<key>uuid</key>

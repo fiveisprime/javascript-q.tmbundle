@@ -3,19 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Q.nfcall($1)
-	.then($2)
-	.fail(${3:function(err) {
-		$4
-	\}})
-	.done();$5</string>
+	<string>return Q.nfcall($1);$2</string>
 	<key>name</key>
-	<string>nfcall</string>
+	<string>return nfcall</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>qc</string>
+	<string>qcr</string>
 	<key>uuid</key>
-	<string>0E21306B-EF53-4636-8730-9347E5162100</string>
+	<string>AF89A1B7-3433-4D0D-9C15-9813AD691C4C</string>
 </dict>
 </plist>
