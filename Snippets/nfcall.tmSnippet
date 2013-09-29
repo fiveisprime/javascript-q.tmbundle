@@ -3,12 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Q.nfcall($1)
-	.then($2)
-	.fail(${3:function(err) {
-		$4
-	\}})
-	.done();$5</string>
+	<string>Q.nfcall($1)$2</string>
 	<key>name</key>
 	<string>nfcall</string>
 	<key>scope</key>
