@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>return deferred.promise;</string>
+	<string>return deferred.promise${1:.nodeify(${2:fn})};</string>
 	<key>name</key>
 	<string>return promise</string>
 	<key>scope</key>
